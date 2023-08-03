@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * if loops
  * flip_bits - counts the number of bits to change
  * to get from one number to another
  * @n: first number
  * @m: second number
+ * funtions loops
  *
  * Return: number of bits to change
  */
